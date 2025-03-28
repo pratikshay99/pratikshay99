@@ -1,7 +1,7 @@
 Hi there, 👋 
 
                                     👋 Hi, I’m Pratiksha Yadav 👋
-    Full Stack Developer | Java | SpringBoot | Microservices | Oracle | MYSQL | RestAPI | Angular | Html | CSS
+    Full Stack Developer | Java | SpringBoot | Microservices | Oracle | MYSQL | RestAPI | Angular | Keycloak | Spring Cloud Gateway | Html | CSS
                                                                                                                
 
 					
