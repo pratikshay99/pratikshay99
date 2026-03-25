@@ -9,7 +9,7 @@
 
 🤓 Always learning new things
 
-👀 I’m currently open for: a new job opportunity.
+👀 I’m currently
 
 📫 You can reach me through **pratikshayadav1405@gmail.com**
 
